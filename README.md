@@ -9,14 +9,14 @@ Tälle sivulle listataan avoimesti saatavilla olevia tietojenkäsittelytieteen k
 * Esitiedot
   * ei ole
 * Kommentit
-  * MOOC-ohjelmointikurssit tehtävien automaattinen tarkastusjärjestelmä on loistava motivaattori ohjelmoinnin opiskeluun!
+  * _MOOC-ohjelmointikurssit tehtävien automaattinen tarkastusjärjestelmä on loistava motivaattori ohjelmoinnin opiskeluun!_
 
 ### Tietokantojen perusteet
 * https://materiaalit.github.io/tikape-k18/
 * Tagit
   * Tietokannat
 * Esitiedot
-  * Ohjelmoinnin perusteet
+  * _Ohjelmoinnin perusteet_
   
 ### FullStack-websovelluskehitys
 * https://fullstackopen.github.io/
@@ -43,7 +43,7 @@ Tälle sivulle listataan avoimesti saatavilla olevia tietojenkäsittelytieteen k
 * Tagit
   * Cyber security
 * Kommentit
-  * Käytännönläheinen kurssi tietoturvaan
+  * _Käytännönläheinen kurssi tietoturvaan_
 
 ### Tietokantasovellus
 * https://materiaalit.github.io/tsoha-18/
@@ -52,4 +52,4 @@ Tälle sivulle listataan avoimesti saatavilla olevia tietojenkäsittelytieteen k
 * Esitiedot
   * Ohjelmoinnin perusteet, tietokantojen perusteet
 * Kommentit
-  * Kurssilla tehdään webissä toimiva postgres-kantaa käyttävä crud-sovellus vapaavalintaisesta aiheesta Pythonin Flask-kirjastoa käyttäen
+  * _Kurssilla tehdään webissä toimiva postgres-kantaa käyttävä crud-sovellus vapaavalintaisesta aiheesta Pythonin Flask-kirjastoa käyttäen_
